@@ -88,4 +88,3 @@ E este script sirve para o comportanmento do xogador:
         }
     }
     }
-![image](https://user-images.githubusercontent.com/72246712/160929466-07a4c8ee-7c4a-4c97-94a6-d5b09d7ab72b.png)
