@@ -3,8 +3,13 @@
 E un pequeno xogo en 3D feito en unity onde teras que ir eliminando cadrados cunha pelota.
 
 Neste proxecto poderemos encontrar diferente tipo de carpetas con toda a información do xogo.
+![Captura de pantalla (41)](https://user-images.githubusercontent.com/72246712/160934704-18288322-f564-46b0-8633-ff896057dde4.png)
 
-##Materiais
+
+## Materiais
+
+En Materiais podemos encontrar onde lle damos as caracteristicas visuais aos obxetos.
+![Captura de pantalla (42)](https://user-images.githubusercontent.com/72246712/160934803-6f94e1ac-d838-4647-b60b-56177b55e3ef.png)
 
 ## Scripts
 
@@ -83,3 +88,4 @@ E este script sirve para o comportanmento do xogador:
         }
     }
     }
+![image](https://user-images.githubusercontent.com/72246712/160929466-07a4c8ee-7c4a-4c97-94a6-d5b09d7ab72b.png)
