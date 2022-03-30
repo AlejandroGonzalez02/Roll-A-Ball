@@ -1,2 +1,4 @@
 # Roll-A-Ball
-Pequeno xogo creado con Unity en 3D
+
+E un pequeno xogo en 3D feito en unity onde teras que ir eliminando cadrados cunha pelota.
+
